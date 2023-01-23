@@ -20,7 +20,7 @@ It is simple to use Predictor Aviator, All you have to do is create a user accou
 # Screen Live Favorites
 Once connected, select your favorite online gaming site from the list. Then wait a few seconds for the data to load.
 
-![image](https://user-images.githubusercontent.com/123264188/213974906-4c586947-58ed-4cb0-bb97-2f0db60a046b.png)
+<!-- ![image](https://user-images.githubusercontent.com/123264188/213974906-4c586947-58ed-4cb0-bb97-2f0db60a046b.png) -->
 
 # To Start
 The big moment is finally here! Click on Start the algorithm starts then your prediction appears.
