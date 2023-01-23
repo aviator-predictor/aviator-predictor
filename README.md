@@ -3,7 +3,7 @@
 Predictor Aviator
 With Predictor Aviator, The Aviator casino game becomes simple and easy!
 
-[Download App] (https://aviatorpredictor.herokuapp.com/)
+[Download App](https://aviatorpredictor.herokuapp.com/)
 ![image](https://user-images.githubusercontent.com/123264188/213974745-0f165eef-db7a-43d3-8cad-65947b2718b7.png)
 
 
@@ -29,4 +29,4 @@ The big moment is finally here! Click on Start the algorithm starts then your pr
 Prediction
 just click on Next each time. Do not forget ! There are limits, So don't be too greedy.
 
-[Download App] (https://aviatorpredictor.herokuapp.com/)
+[Download App](https://aviatorpredictor.herokuapp.com/)
