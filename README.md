@@ -3,11 +3,11 @@
 # Predictor Aviator
 With Predictor Aviator, The Aviator casino game becomes simple and easy!
 
-[Download App](https://aviatorpredictors.com/) <<<<<
+[Download App](https://aviatorpredictor.org/) <<<<<
 <!-- ![image](https://user-images.githubusercontent.com/123264188/213974745-0f165eef-db7a-43d3-8cad-65947b2718b7.png) -->
 
 # Reliable Predictions
-Trained to predict reliable drop points, Artificial intelligence behind Predictor Aviator is a marvel. it is able to make 95% reliable predictions. And all this for your greatest happiness. Chain the gains by following the predictions of the application and line your pockets.
+Trained to predict reliable drop points, the Artificial intelligence behind Predictor Aviator is a marvel. it is able to make 95% reliable predictions. And all this for your greatest happiness. Chain the gains by following the predictions of the application and line your pockets.
 
 <!-- ![image](https://user-images.githubusercontent.com/123264188/213974799-c1e43722-92ef-493a-a0c5-ab0af16d8f6f.png) -->
 
@@ -26,6 +26,6 @@ Once connected, select your favorite online gaming site from the list. Then wait
 The big moment is finally here! Click on Start the algorithm starts then your prediction appears.
 
 # Prediction
-just click on Next each time. Do not forget ! There are limits, So don't be too greedy.
+just click on Next each time. Do not forget! There are limits, So don't be too greedy.
 
- [Download App From official website](https://aviatorpredictors.com/) <<<<<
+ [Download the App From the official website](https://aviatorpredictor.org/) <<<<<
