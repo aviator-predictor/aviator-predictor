@@ -1,6 +1,6 @@
-623582220417c1f36221d8d5bc5acc527aa81484[image](https://user-images.githubusercontent.com/123264188/213974615-fc13625b-29be-4b82-99ba-8cec21656417.png) -->
+[image](https://user-images.githubusercontent.com/123264188/213974615-fc13625b-29be-4b82-99ba-8cec21656417.png) -->
 
- #Predictor Aviator
+ # Predictor Aviator
 With Predictor Aviator, The Aviator casino game becomes simple and easy!
 
 [Download App](https://aviatorpredictor.org/) <<<<<
