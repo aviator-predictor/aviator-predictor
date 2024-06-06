@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/linear1" android:background="#ffffffff" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<CheckBox android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/checkbox3" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SPORTYBET AVIATOR" />
+		<CheckBox android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/checkbox2" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MSPORTS   AVIATOR" />
+		<CheckBox android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/checkbox1" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1XBET  AVIATOR" />
+		<LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:background="#ffffffff" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<ImageView android:id="@id/imageview1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/yyyy" android:scaleType="center" />
+		</LinearLayout>
+		<TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/textview1" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Activation Code" />
+		<LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:background="#ffe0e0e0" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<EditText android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ff000000" android:textColorHint="#ff607d8b" android:gravity="center" android:id="@id/edittext1" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textPassword" />
+		</LinearLayout>
+		<Button android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/button1" android:background="#ffb71c1c" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Confirm" />
+	</LinearLayout>
+</LinearLayout>
